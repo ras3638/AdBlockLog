@@ -17,7 +17,6 @@
  * this program; If not, see <http://www.gnu.org/licenses/>.
  */
 
-//hello
 package de.ub0r.android.adBlock;
 
 import java.io.BufferedReader;
